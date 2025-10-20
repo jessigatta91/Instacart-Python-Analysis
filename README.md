@@ -31,9 +31,13 @@ Key tasks include:
 instacart-python-analysis/
 
 ├─ 03_Scripts/        # 12 Jupyter notebooks covering bootcamp tasks
+
 ├─ 04_Analysis/       # Visual outputs
-│   └─ Visualization/ # PNGs or charts exported from notebooks
+
+│   └─ Visualization/ # PNGs exported from notebooks
+
 ├─ 05_Sent_to_Client/ # Final report delivered to the client
+
 └─ README.md          # Overview file
 
 ## Notes
